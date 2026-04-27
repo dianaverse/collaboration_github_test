@@ -10,7 +10,7 @@ format: html
 
 1. Bare with me, new to Github
 
-### Tips: Tracy Marie Grimes
+### Tips: Traysea Marie Grimes
 
 Assign tasks!
 
