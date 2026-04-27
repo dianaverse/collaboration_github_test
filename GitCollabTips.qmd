@@ -10,9 +10,9 @@ format: html
 
 <Owner adds their tips here!>
 
-### Tips: <collaborator's name here>
+### Tips: <Tracy Grimes>
 
-<Collaborator adds their tips here!>
+<Assign tasks>
 
 ## How to Create a Merge Conflict 
 
