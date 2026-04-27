@@ -6,13 +6,13 @@ format: html
 
 ## Git Collaboration Tips
 
-### Tips: <owner's name here>
+### Tips: Diana 
 
-<Owner adds their tips here!>
+1. Bare with me, new to Github
 
-### Tips: <Tracy Grimes>
+### Tips: <collaborator's name here>
 
-<Assign tasks>
+<Collaborator adds their tips here!>
 
 ## How to Create a Merge Conflict 
 
